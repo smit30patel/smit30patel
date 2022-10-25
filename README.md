@@ -1,17 +1,15 @@
 ### Hi there 👋
+
+**Smit Patel** 😊
+
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Open Source
+- 🤔 I’m looking for help with Internships
+- 💬 Ask me about Python
+
+
+🌟 HacktoberFest 2022 🌠
+
+I have Participated in Hacktoberfest as Contributor and Completed Four Pull/Merge Requests and recived Badges of HF22
+
 [![@smitpatel's Holopin board](https://holopin.me/smitpatel)](https://holopin.io/@smitpatel)
-
-<!--
-**smit30patel/smit30patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
